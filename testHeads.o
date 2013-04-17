@@ -1,2 +1,2 @@
-Name DoB
-char64 date
+Name DD MM YYYY
+character64 integer integer integer
